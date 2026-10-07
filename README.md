@@ -17,6 +17,4 @@ Neste GitHub reúno projetos académicos, experiências de programação e ferra
 
 ## Percurso e investigação
 
-A formação em biologia e a experiência de investigação são a base do meu trabalho com dados e software. Os registos científicos e o percurso profissional estão disponíveis nos perfis abaixo.
-
-[LinkedIn](https://www.linkedin.com/in/dteves/) · [ORCID](https://orcid.org/0000-0001-5741-5686) · [Ciência Vitae](https://www.cienciavitae.pt/portal/FA15-C164-E57B)
+A formação em biologia e a experiência de investigação são a base do meu trabalho com dados e software.
