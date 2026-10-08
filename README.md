@@ -1,5 +1,3 @@
-# Olá, sou o Diogo 👋
-
 **Biólogo de formação. Entre a bioinformática, o software e a saúde.**
 
 O que mais me entusiasma é descobrir algo novo. A biologia foi o ponto de partida; a bioinformática abriu-me caminho para explorar outras perguntas com dados e código.
