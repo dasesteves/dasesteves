@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="400" viewBox="0 0 640 400" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Diogo Esteves</title>
+  <desc id="desc">Biologia, bioinformática e software na saúde.</desc>
+  <rect width="640" height="400" rx="16" fill="#102936"/>
+  <path d="M36 38H86" stroke="#77D8BF" stroke-width="4"/>
+  <text x="36" y="81" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="600" letter-spacing="2" fill="#A2C2CC">BIOLOGIA · DADOS · SOFTWARE</text>
+  <text x="32" y="160" font-family="Georgia,Times New Roman,serif" font-size="70" letter-spacing="-2" fill="#F3F1E9">Diogo Esteves</text>
+  <text x="36" y="211" font-family="Segoe UI,Arial,sans-serif" font-size="28" fill="#C4D9DF">Bioinformática e</text>
+  <text x="36" y="249" font-family="Segoe UI,Arial,sans-serif" font-size="28" fill="#C4D9DF">tecnologia na saúde</text>
+  <text x="36" y="355" font-family="Segoe UI,Arial,sans-serif" font-size="21" letter-spacing="1" fill="#91B5C0">BRAGA, PORTUGAL</text>
+  <g stroke="#79D6BE" stroke-opacity="0.5" stroke-width="2">
+    <path d="M440 293L493 271L539 314L587 280M440 293L473 352L539 314L576 364M493 271L473 352"/>
+  </g>
+  <g fill="#79D6BE"><circle cx="440" cy="293" r="7"/><circle cx="493" cy="271" r="5"/><circle cx="473" cy="352" r="5"/></g>
+  <g fill="#8BB6EA"><circle cx="539" cy="314" r="10"/><circle cx="587" cy="280" r="5"/><circle cx="576" cy="364" r="4"/></g>
+  <circle cx="539" cy="314" r="20" stroke="#8BB6EA" stroke-opacity="0.4"/>
+</svg>

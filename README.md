@@ -1,17 +1,51 @@
-Sou biólogo de formação, com mestrado em Bioinformática. Trabalho com análise de dados e desenvolvimento de software na área da saúde.
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/perfil-compacto.svg">
+  <img src="assets/perfil.svg" alt="Diogo Esteves — Biologia, bioinformática e software na saúde" width="100%">
+</picture>
 
-Estudei na Universidade do Minho e fiz investigação em biologia molecular de plantas, microalgas e aquacultura. Trabalhei no IPMA e no Centro de Ciências do Mar.
+Sou biólogo de formação, com mestrado em **Bioinformática** pela Universidade do Minho. Hoje trabalho com **análise de dados e desenvolvimento de software na saúde**.
 
-## Projetos
+Fiz investigação em biologia molecular de plantas, microalgas e aquacultura, com passagem pelo IPMA e pelo Centro de Ciências do Mar.
 
-[**Células de pigmentação de peixe-zebra**](https://github.com/dasesteves/projeto)  
-Análise e visualização de dados de célula única, com scripts, resultados e artigo.
+## Projetos em destaque
 
-[**Gestão de medicação hospitalar**](https://github.com/dasesteves/pre-tese)  
-Pré-tese sobre a otimização e normalização destes processos.
+<table>
+<tr>
+<td width="50%" valign="top">
+<sub>01 · BIOINFORMÁTICA</sub>
+<h3><a href="https://github.com/dasesteves/projeto">Células de pigmentação de peixe-zebra</a></h3>
+<p>Análise e visualização de dados de célula única. Projeto académico sobre diferenciação celular.</p>
+<p><code>R</code> <code>Seurat</code> <code>Monocle</code></p>
+<p><a href="https://github.com/dasesteves/projeto/blob/main/Artigo%20Final.pdf">Artigo</a> · <a href="https://github.com/dasesteves/projeto/tree/main/Results">Resultados</a></p>
+</td>
+<td width="50%" valign="top">
+<sub>02 · TECNOLOGIA NA SAÚDE</sub>
+<h3><a href="https://github.com/dasesteves/pre-tese">Gestão de medicação hospitalar</a></h3>
+<p>Pré-tese sobre a otimização e normalização dos processos de gestão de medicação em ambiente hospitalar.</p>
+<p><code>LaTeX</code></p>
+<p><a href="https://github.com/dasesteves/pre-tese/blob/main/pre-tese.pdf">Ler a pré-tese</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<sub>03 · APRENDIZAGEM AUTOMÁTICA</sub>
+<h3><a href="https://github.com/dasesteves/si">Sistemas Inteligentes para Bioinformática</a></h3>
+<p>Algoritmos, exercícios e testes em Python. Fork académico desenvolvido no contexto do mestrado.</p>
+<p><code>Python</code> <code>NumPy</code> <code>Jupyter</code></p>
+<p><a href="https://github.com/dasesteves/si/tree/main/src/si">Código</a> · <a href="https://github.com/dasesteves/si/tree/main/exercises">Exercícios</a></p>
+</td>
+<td width="50%" valign="top">
+<sub>04 · DADOS BIOLÓGICOS</sub>
+<h3><a href="https://github.com/dasesteves/Trabalho_ECDB">Exploração de dados biológicos</a></h3>
+<p>Trabalho de grupo com análise de dados públicos de expressão génica, exploração estatística e visualização em R.</p>
+<p><code>R</code> <code>R Markdown</code> <code>Bioconductor</code></p>
+<p><a href="https://github.com/dasesteves/Trabalho_ECDB">Código e relatório</a></p>
+</td>
+</tr>
+</table>
 
-[**Sistemas Inteligentes para Bioinformática**](https://github.com/dasesteves/si)  
-Fork académico com algoritmos de aprendizagem automática, exercícios e testes em Python.
+### Ferramentas nos meus projetos
 
-[**Análise de dados biológicos**](https://github.com/dasesteves/Trabalho_ECDB)  
-Trabalho de grupo com dados do cBioPortal, em R.
+**Dados e análise** · Python, R, NumPy, pandas e SciPy  
+**Bioinformática** · Seurat, Monocle, Slingshot e Bioconductor  
+**Exploração e escrita** · Jupyter, R Markdown e LaTeX
