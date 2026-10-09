@@ -1,9 +1,9 @@
 <p>
 <picture>
-  <source media="(prefers-reduced-motion: no-preference) and (max-width: 600px)" srcset="assets/perfil-compacto-animado.svg">
-  <source media="(prefers-reduced-motion: no-preference)" srcset="assets/perfil-animado.svg">
-  <source media="(max-width: 600px)" srcset="assets/perfil-compacto.svg">
-  <img src="assets/perfil.svg" alt="Diogo Esteves — Biologia, bioinformática e software na saúde" width="100%">
+  <source media="(prefers-reduced-motion: no-preference) and (max-width: 600px)" srcset="assets/sistemas-compacto-animado.svg">
+  <source media="(prefers-reduced-motion: no-preference)" srcset="assets/sistemas-animado.svg">
+  <source media="(max-width: 600px)" srcset="assets/sistemas-compacto.svg">
+  <img src="assets/sistemas.svg" alt="Diogo Esteves — Da biologia ao software, a mesma curiosidade pelos sistemas." width="100%">
 </picture>
 </p>
 
