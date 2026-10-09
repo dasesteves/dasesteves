@@ -12,7 +12,7 @@
 
 Sou biólogo de formação, com mestrado em **Bioinformática** pela Universidade do Minho. Hoje trabalho com **análise de dados e desenvolvimento de software na saúde**.
 
-Fiz investigação em biologia molecular de plantas, microalgas e aquacultura, com passagem pelo Instituto Português do Mar e Atmosfera (IPMA) e pelo Centro de Ciências do Mar (CCMAR) no Algarve.
+Fiz investigação em biologia molecular de plantas, microalgas e aquacultura, com passagem pelo **Instituto Português do Mar e Atmosfera** (IPMA) e pelo **Centro de Ciências do Mar** (CCMAR) no Algarve.
 
 ## Projetos em destaque
 
