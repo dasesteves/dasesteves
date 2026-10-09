@@ -12,7 +12,7 @@
 
 Sou biólogo de formação, com mestrado em **Bioinformática** pela Universidade do Minho. Hoje trabalho com **análise de dados e desenvolvimento de software na saúde**.
 
-Fiz investigação em biologia molecular de plantas, microalgas e aquacultura, com passagem pelo **Instituto Português do Mar e Atmosfera** (IPMA) e pelo **Centro de Ciências do Mar** (CCMAR) no Algarve. Links para o perfil ORCID e CienciaVitae estão disponíveis neste perfil.
+Fiz investigação em biologia molecular de plantas, microalgas e aquacultura, com passagem pelo **Instituto Português do Mar e Atmosfera** (IPMA) e pelo **Centro de Ciências do Mar** (CCMAR) no Algarve. Links para o perfil <a href="https://orcid.org/0000-0001-5741-5686">ORCID</a> e <a href="https://www.cienciavitae.pt/portal/FA15-C164-E57B">CienciaVitae</a> estão disponíveis neste perfil.
 
 ## Projetos em destaque
 
