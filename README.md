@@ -3,7 +3,7 @@
   <source media="(prefers-reduced-motion: no-preference) and (max-width: 600px)" srcset="assets/sistemas-compacto-animado.svg">
   <source media="(prefers-reduced-motion: no-preference)" srcset="assets/sistemas-animado.svg">
   <source media="(max-width: 600px)" srcset="assets/sistemas-compacto.svg">
-  <img src="assets/sistemas.svg" alt="Diogo Esteves — Da biologia ao software, a mesma curiosidade pelos sistemas." width="100%">
+  <img src="assets/sistemas.svg" alt="Diogo Esteves — Da biologia ao software, aficionado por sistemas." width="100%">
 </picture>
 </p>
 
