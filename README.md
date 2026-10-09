@@ -1,11 +1,14 @@
 <p>
 <picture>
-  <source media="(prefers-reduced-motion: no-preference) and (max-width: 600px)" srcset="assets/sistemas-compacto-animado.svg">
-  <source media="(prefers-reduced-motion: no-preference)" srcset="assets/sistemas-animado.svg">
-  <source media="(max-width: 600px)" srcset="assets/sistemas-compacto.svg">
-  <img src="assets/sistemas.svg" alt="Diogo Esteves — Da biologia ao software, aficionado por sistemas." width="100%">
+  <source media="(prefers-reduced-motion: no-preference) and (max-width: 600px)" srcset="assets/sistemas-compacto-animado.svg?v=frase-editavel">
+  <source media="(prefers-reduced-motion: no-preference)" srcset="assets/sistemas-animado.svg?v=frase-editavel">
+  <source media="(max-width: 600px)" srcset="assets/sistemas-compacto.svg?v=frase-editavel">
+  <img src="assets/sistemas.svg?v=frase-editavel" alt="Diogo Esteves — Biologia, dados e software." width="100%">
 </picture>
 </p>
+
+<!-- Frase pessoal: edita a linha abaixo para alterar o texto visível no perfil. -->
+**Da biologia ao software, aficionado por sistemas.**
 
 Sou biólogo de formação, com mestrado em **Bioinformática** pela Universidade do Minho. Hoje trabalho com **análise de dados e desenvolvimento de software na saúde**.
 
