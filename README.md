@@ -1,9 +1,9 @@
 <p>
 <picture>
-  <source media="(prefers-reduced-motion: no-preference) and (max-width: 600px)" srcset="assets/sistemas-compacto-animado.svg?v=frase-editavel">
-  <source media="(prefers-reduced-motion: no-preference)" srcset="assets/sistemas-animado.svg?v=frase-editavel">
-  <source media="(max-width: 600px)" srcset="assets/sistemas-compacto.svg?v=frase-editavel">
-  <img src="assets/sistemas.svg?v=frase-editavel" alt="Diogo Esteves — Biologia, dados e software." width="100%">
+  <source media="(prefers-reduced-motion: no-preference) and (max-width: 600px)" srcset="https://github.com/dasesteves/dasesteves/raw/671bfd8c8832db646498e04ae7fb8a72fe23c1e1/assets/sistemas-compacto-animado.svg">
+  <source media="(prefers-reduced-motion: no-preference)" srcset="https://github.com/dasesteves/dasesteves/raw/671bfd8c8832db646498e04ae7fb8a72fe23c1e1/assets/sistemas-animado.svg">
+  <source media="(max-width: 600px)" srcset="https://github.com/dasesteves/dasesteves/raw/671bfd8c8832db646498e04ae7fb8a72fe23c1e1/assets/sistemas-compacto.svg">
+  <img src="https://github.com/dasesteves/dasesteves/raw/671bfd8c8832db646498e04ae7fb8a72fe23c1e1/assets/sistemas.svg" alt="Diogo Esteves — Biologia, dados e software." width="100%">
 </picture>
 </p>
 
