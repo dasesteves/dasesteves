@@ -51,3 +51,4 @@ Fiz investigação em biologia molecular de plantas, microalgas e aquacultura, c
 **Dados e análise** · Python, R, NumPy, pandas e SciPy  
 **Bioinformática** · Seurat, Monocle, Slingshot e Bioconductor  
 **Exploração e escrita** · Jupyter, R Markdown e LaTeX
+**Software** . REACT, Node, ETC..
