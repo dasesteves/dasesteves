@@ -10,9 +10,11 @@
 <!-- Frase pessoal: edita a linha abaixo para alterar o texto visível no perfil. -->
 **Da biologia ao software, aficionado por sistemas.**
 
-Sou biólogo de formação, com mestrado em **Bioinformática** pela Universidade do Minho. Hoje trabalho com **análise de dados e desenvolvimento de software na saúde**.
+Sou biólogo de formação, com mestrados em **Bioinformática** e em **Biologia Molecular, Biotecnologia e Bioempreendedorismo em Plantas** pela Universidade do Minho. Hoje trabalho com **análise de dados e desenvolvimento de software na saúde**, de interfaces em React e TypeScript à integração de sistemas, APIs e bases de dados SQL.
 
-Fiz investigação em Microbiologia, Biologia Molecular, Biotecnologia <code>(Biologia de Plantas, Microalgas e Aquacultura)</code> com passagem pelo **Instituto Português do Mar e Atmosfera** (IPMA) e pelo **Centro de Ciências do Mar** (CCMAR) no Algarve. Links para o perfil <a href="https://orcid.org/0000-0001-5741-5686">ORCID</a> e <a href="https://www.cienciavitae.pt/portal/FA15-C164-E57B">CienciaVitae</a> estão disponíveis neste perfil.
+Fiz investigação em Microbiologia, Biologia Molecular, Biotecnologia <code>(Biologia de Plantas, Microalgas e Aquacultura)</code> com passagem pelo **Instituto Português do Mar e da Atmosfera** (IPMA) e pelo **Centro de Ciências do Mar** (CCMAR) no Algarve.
+
+Aqui reúno código e projetos. O meu percurso profissional está no [LinkedIn](https://www.linkedin.com/in/dteves/); a investigação e as publicações, no [ORCID](https://orcid.org/0000-0001-5741-5686) e no [CiênciaVitae](https://www.cienciavitae.pt/portal/FA15-C164-E57B).
 
 ## Projetos em destaque
 
@@ -56,4 +58,4 @@ Fiz investigação em Microbiologia, Biologia Molecular, Biotecnologia <code>(Bi
 **Dados e análise** · Python, R, NumPy, pandas e SciPy  
 **Bioinformática** · Seurat, Monocle, Slingshot e Bioconductor  
 **Exploração e escrita** · Jupyter, R Markdown e LaTeX  
-**Software** · React e Node.js
+**Software** · React, TypeScript, Node.js e SQL
