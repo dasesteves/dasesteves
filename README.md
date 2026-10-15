@@ -1,3 +1,5 @@
+**Português** · [English](https://github.com/dasesteves/dasesteves/blob/main/README.en.md)
+
 <p>
 <picture>
   <source media="(prefers-reduced-motion: no-preference) and (max-width: 600px)" srcset="https://github.com/dasesteves/dasesteves/raw/671bfd8c8832db646498e04ae7fb8a72fe23c1e1/assets/sistemas-compacto-animado.svg">
