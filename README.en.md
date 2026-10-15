@@ -1,6 +1,13 @@
 [Português](https://github.com/dasesteves) · **English**
 
-# Diogo Esteves
+<p>
+<picture>
+  <source media="(prefers-reduced-motion: no-preference) and (max-width: 600px)" srcset="https://github.com/dasesteves/dasesteves/raw/main/assets/sistemas-compacto-animado-en.svg">
+  <source media="(prefers-reduced-motion: no-preference)" srcset="https://github.com/dasesteves/dasesteves/raw/main/assets/sistemas-animado-en.svg">
+  <source media="(max-width: 600px)" srcset="https://github.com/dasesteves/dasesteves/raw/main/assets/sistemas-compacto-en.svg">
+  <img src="https://github.com/dasesteves/dasesteves/raw/main/assets/sistemas-en.svg" alt="Diogo Esteves — Biology, data and software." width="100%">
+</picture>
+</p>
 
 <!-- Personal statement: edit the line below to update the text shown here. -->
 **From biology to software, with a fascination for systems.**
