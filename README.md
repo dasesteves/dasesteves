@@ -34,7 +34,7 @@ Aqui reúno código e projetos. O meu percurso profissional está no [LinkedIn](
 <sub>02 · BIOINFORMÁTICA</sub>
 <h3><a href="https://github.com/dasesteves/projeto">Células de pigmentação de peixe-zebra</a></h3>
 <p>Análise e visualização de dados de célula única. Projeto académico sobre diferenciação celular.</p>
-<p><code>R</code> <code>Seurat</code> <code>Monocle</code> · <a href="https://github.com/dasesteves/projeto/blob/main/Artigo%20Final.pdf">Artigo</a> · <a href="https://github.com/dasesteves/projeto/tree/main/Results">Resultados</a></p>
+<p><code>R</code> <code>Seurat</code> <code>Monocle</code> · <a href="https://github.com/dasesteves/projeto/blob/main/Artigo%20Final.pdf">Artigo</a> · <a href="https://github.com/dasesteves/projeto/tree/main/Results">Resultados</a> · <a href="https://github.com/dasesteves/projeto/blob/main/reproduction/README.md">Reprodução: instruções e limites</a></p>
 </td>
 </tr>
 <tr>

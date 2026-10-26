@@ -34,7 +34,7 @@ Here I bring together code and projects. My professional background is on [Linke
 <sub>02 · BIOINFORMATICS</sub>
 <h3><a href="https://github.com/dasesteves/projeto">Zebrafish pigment cells</a></h3>
 <p>Analysis and visualization of single-cell data. An academic project on cell differentiation.</p>
-<p><code>R</code> <code>Seurat</code> <code>Monocle</code> · <a href="https://github.com/dasesteves/projeto/blob/main/Artigo%20Final.pdf">Project paper</a> · <a href="https://github.com/dasesteves/projeto/tree/main/Results">Results</a></p>
+<p><code>R</code> <code>Seurat</code> <code>Monocle</code> · <a href="https://github.com/dasesteves/projeto/blob/main/Artigo%20Final.pdf">Project paper</a> · <a href="https://github.com/dasesteves/projeto/tree/main/Results">Results</a> · <a href="https://github.com/dasesteves/projeto/blob/main/reproduction/README.md">Reproduction: instructions and limitations</a></p>
 </td>
 </tr>
 <tr>
